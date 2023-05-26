@@ -1,0 +1,17 @@
+.custom-navbar img{
+   display: none;
+} 
+.custom-navbar svg{
+  margin-right: 10px;
+} 
+.CustomSidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 220px;
+  }
+.Outlet {
+    padding-left: 220px;
+    width: 100%;
+    overflow-y: auto;
+  }

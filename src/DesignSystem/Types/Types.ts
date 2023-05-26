@@ -1,0 +1,2 @@
+import { ESizeAvatar, TypeCheckbox, TypeButton, ETextInput, ESizeInput, ETypesInput, TextType, NavbarPosition, SizeButton, SidebarType, TypeLabel} from "@piximind/ds-p-23"
+export { ESizeAvatar, TypeCheckbox, TypeButton, ETextInput, ESizeInput, ETypesInput, TextType as EtextType, NavbarPosition as ENavbarPosition, SizeButton, SidebarType, TypeLabel }

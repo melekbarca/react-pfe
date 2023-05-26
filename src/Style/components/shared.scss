@@ -1,0 +1,34 @@
+@import "_variables";
+.border-solid{
+   border: 1px solid $Black;
+}
+.box{
+   width: 466px;
+}
+.col-space-20{
+   row-gap: 20px;
+   column-gap: 20px;
+}
+.col-space-30{
+   row-gap: 30px;
+   column-gap: 30px;
+}
+.cursor {
+   cursor: pointer;
+   size: 12px;
+}
+.tabPosition{
+   //text-align: center;
+   padding-left: 5%;
+}
+.bold {
+   font-weight: bold;
+   color: $greenColor;
+}
+.tabClicked{
+   color: $greenColor;
+
+}
+.scroll{
+   overflow: auto;
+}

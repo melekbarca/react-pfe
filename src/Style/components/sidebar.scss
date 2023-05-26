@@ -1,0 +1,9 @@
+@import "_variables";
+
+.CustomSidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 220px;
+    box-shadow: 0px 1px 3px $grayColor, 0px 1px 2px -2px $grayColor;
+  }
